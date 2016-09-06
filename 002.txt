@@ -5,3 +5,4 @@ just do it
 master add
 no-ff
 bug fixing
+test for switching to branch without stash
